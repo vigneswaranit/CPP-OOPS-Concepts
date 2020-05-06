@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583586431 source:c:\users\vigne\documents\00_learning_lad\10_destructor_releasing_allocated_memory\main.cpp
+	<iostream>
+	<string.h>
+

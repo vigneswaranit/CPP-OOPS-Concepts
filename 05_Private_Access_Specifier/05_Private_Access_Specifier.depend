@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583586082 source:c:\users\vigne\documents\00_learning_lad\05_private_access_specifier\main.cpp
+	<iostream>
+	<string.h>
+

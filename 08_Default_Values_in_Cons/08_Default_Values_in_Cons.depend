@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583583939 source:c:\users\vigne\documents\00_learning_lad\08_default_values_in_cons\main.cpp
+	<iostream>
+	<string.h>
+
